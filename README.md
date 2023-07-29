@@ -8,7 +8,7 @@
 * pattern recognition - discern important causal relationships and other significant patterns - signal from noise
 * mental simulation - ability to anticipate how stakeholder respond
 
-
+Agenda setting is important. I am no longer solving problems but setting aside what problems to solve.
 
 ## Others
 
