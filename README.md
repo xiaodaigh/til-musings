@@ -2,6 +2,15 @@
 
 # 2023-07-29
 
+## How to become more visible?
+
+* Make yourself dependable
+* Collaboration: make things with or for other people
+* Publishing
+
+![image](https://github.com/xiaodaigh/til-musings/assets/4497189/f3bf19e5-9d73-4637-b656-38d27e13f0e5)
+
+
 ## How to be strategic?
 
 * level shifting - know when to focus on the details and when to focus on the bigger picture?
