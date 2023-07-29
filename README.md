@@ -2,6 +2,16 @@
 
 # 2023-07-29
 
+## How to be strategic?
+
+* level shifting - know when to focus on the details and when to focus on the bigger picture?
+* pattern recognition - discern important causal relationships and other significant patterns - signal from noise
+* mental simulation - ability to anticipate how stakeholder respond
+
+
+
+## Others
+
 In servant-driven leadership, the crux of the message is: You’re in your role to serve others. This makes it very hard to say no, and there’s a temptation for leaders (and their teams) to be reactive, trying to please everyone. In noble-purpose leadership, the core message is: You’re in your role to make an impact. This requires more strategic thinking in terms of where to place your efforts.
  
 Simple—but important—shifts can help managers parse out their limited energies. For example, think about the difference between asking your reports “What do you need to be successful in accomplishing your goal”
